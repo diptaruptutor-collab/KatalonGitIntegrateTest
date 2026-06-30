@@ -17,3 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('https://katalon.com/')
+
+WebUI.click(findTestObject('Katalon.com/Page_Katalon True Platform  The AI Platform for Software Quality/a_Start free trial'))
+
+WebUI.click(findTestObject('Katalon.com/Page_Katalon Software Quality Management Platform/a_Start trial with Katalon Studio'))
+
+WebUI.click(findTestObject('Katalon.com/Page_Katalon Studio Download  Katalon/div_Pricing'))
+
+WebUI.click(findTestObject('Katalon.com/Page_Katalon True Platform Pricing  Team  Enterprise Plans/div_Solutions'))
+
+WebUI.click(findTestObject('Katalon.com/Page_Katalon True Platform Pricing  Team  Enterprise Plans/div_API Testing'))
+
+WebUI.closeBrowser()
+

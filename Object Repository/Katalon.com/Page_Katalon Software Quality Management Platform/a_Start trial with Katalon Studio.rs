@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Start trial with Katalon Studio</name>
+   <tag></tag>
+   <elementGuidId>5c8829ab-81ee-48e1-adb8-bb10e2babc6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-download ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.btn-download</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Start trial with Katalon Studio&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>01c3a461-675d-49b6-a927-ea49fce94b11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/download</value>
+      <webElementGuid>2558224f-8333-4673-962d-70c0bf3e2039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-download</value>
+      <webElementGuid>3608df39-1d59-4ff9-9584-839c09523c7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start trial with Katalon Studio</value>
+      <webElementGuid>32967a92-6e0a-44ce-81ff-9a44999d6c97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-ec64a1c81b8731a40fb1b402f0d64264</value>
+      <webElementGuid>67e106bf-d61f-4b8d-81f3-518d8a14764b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-download ')]</value>
+      <webElementGuid>651d2b8a-6581-4d7d-b93c-e9c574c9e42e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-download ')]</value>
+      <webElementGuid>1086e93a-171f-488d-be18-2d2e67be0a65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/download' and (text() = 'Start trial with Katalon Studio' or . = 'Start trial with Katalon Studio')]</value>
+      <webElementGuid>e231684f-90f6-4b95-a972-ae1883550543</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

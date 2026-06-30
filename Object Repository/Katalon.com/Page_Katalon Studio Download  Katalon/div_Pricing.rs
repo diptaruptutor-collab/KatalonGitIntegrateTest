@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pricing</name>
+   <tag></tag>
+   <elementGuidId>d7d2910a-65b7-4378-b11e-b9b49dc95bdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = '/pricing']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' top_nav_title ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;\/pricing&quot;] .top_nav_title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Pricing&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>743918dc-6897-46e6-bb19-c991b8b82eba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>top_nav_title</value>
+      <webElementGuid>2c84b3e3-5814-405c-bd75-04fb092a2c45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pricing</value>
+      <webElementGuid>11ab247e-431c-48da-8d7b-c39173130d48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3a0c5ed3ee2610549a69c320bceed226</value>
+      <webElementGuid>01f7848e-06a5-4277-9e91-8c00a59b96a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = '/pricing']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' top_nav_title ')]</value>
+      <webElementGuid>03f8bc2f-4aa7-4aca-8b31-f9671adf8e48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = '/pricing']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' top_nav_title ')]</value>
+      <webElementGuid>00025722-3684-41f3-83fb-b9d55a79ff34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pricing' or . = 'Pricing')]</value>
+      <webElementGuid>52a1e8ab-4a90-461d-856c-7d159e2bcacd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

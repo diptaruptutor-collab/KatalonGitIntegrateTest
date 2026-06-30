@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Solutions</name>
+   <tag></tag>
+   <elementGuidId>8c2499a9-cd27-427e-aac6-d72ab5154b83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' have_child_menu ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' top_nav_title ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.have_child_menu:nth-child(3) .top_nav_title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Solutions&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>44154191-19f8-41d4-b3ec-d1372aefd9ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>top_nav_title</value>
+      <webElementGuid>cf80bc83-63fa-4715-b1ec-a13d6308d5db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Solutions</value>
+      <webElementGuid>9e814d4d-2faa-44a6-9d42-c38a6cd6c06c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e4d99869f37874ebdc5820036d85df3e</value>
+      <webElementGuid>63bad4b1-40b2-48ca-9125-937e39ea5eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' have_child_menu ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' top_nav_title ')]</value>
+      <webElementGuid>b0a432ff-14f6-4f5b-99a2-4e4323df9c89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' have_child_menu ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' top_nav_title ')]</value>
+      <webElementGuid>de5183bf-f3c0-4e43-b0aa-3c091da13902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Solutions' or . = 'Solutions')]</value>
+      <webElementGuid>f31473e2-9e82-42ba-8d8d-890ec706bda7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
