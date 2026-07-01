@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="KatalonGitJenkins" time="37.835" tests="1" passed="1" failures="0" errors="0" incompleted="0" skipped="0">
+   <testsuite name="KatalonGitJenkins" tests="1" passed="1" failures="0" errors="0" incompleted="0" skipped="0" time="37.835" timestamp="2026-07-01T17:26:20.687Z" hostname="dipta - DESKTOP-OTJBDN6" id="Test Suites/KatalonGitJenkins" status="PASSED">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\dipta\\git\\KatalonGitIntegrateTest\\Reports\\20260701_225557\\KatalonGitJenkins\\20260701_225557"/>
+         <property name="logFiles" value="C:\\Users\\dipta\\git\\KatalonGitIntegrateTest\\Reports\\20260701_225557\\KatalonGitJenkins\\20260701_225557\\console0.log, C:\\Users\\dipta\\git\\KatalonGitIntegrateTest\\Reports\\20260701_225557\\KatalonGitJenkins\\20260701_225557\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="executionBindingVariables" value="[]"/>
+         <property name="hostName" value="dipta - DESKTOP-OTJBDN6"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="11.2.1.0"/>
+         <property name="browser" value="Chrome 149.0.7827.156"/>
+         <property name="userFullName" value="Diptarup Sinha"/>
+         <property name="hostAddress" value="192.168.250.170"/>
+         <property name="sessionId" value="b5cbcf6f422151dbaeda2f2418848833"/>
+         <property name="projectName" value="KatalonGitIntegrateTest"/>
+         <property name="seleniumVersion" value="4.39.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Test Case by Kim" time="36.999" classname="Test Cases/Test Case by Kim" status="PASSED">
+         <system-out><![CDATA[01-07-2026T22:56:21 - [TEST_CASE][PASSED] - Test Cases/Test Case by Kim: Test Cases/Test Case by Kim
+
+01-07-2026T22:56:23 - [TEST_STEP][PASSED] - openBrowser(null): Browser is opened with url: 'null'
+
+01-07-2026T22:56:24 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-07-2026T22:56:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-07-2026T22:56:35 - [MESSAGE][PASSED] - Browser is opened with url: 'null'
+
+01-07-2026T22:56:35 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+01-07-2026T22:56:42 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+01-07-2026T22:56:42 - [TEST_STEP][PASSED] - setText(findTestObject("Page_OrangeHRM/input_Username"), "Admin"): Text 'Admin' is set on object 'Object Repository/Page_OrangeHRM/input_Username'
+
+01-07-2026T22:56:46 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/Page_OrangeHRM/input_Username'
+
+01-07-2026T22:56:46 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Page_OrangeHRM/input_Password"), "hUKwJTbofgPU9eVlw/CnDQ=="): Text ****** has been set on object 'Object Repository/Page_OrangeHRM/input_Password'
+
+01-07-2026T22:56:47 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_OrangeHRM/input_Password'
+
+01-07-2026T22:56:47 - [TEST_STEP][PASSED] - click(findTestObject("Page_OrangeHRM/button_Login")): Object: 'Object Repository/Page_OrangeHRM/button_Login' is clicked on
+
+01-07-2026T22:56:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/button_Login' is clicked on
+
+01-07-2026T22:56:49 - [TEST_STEP][PASSED] - click(findTestObject("Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-userdropdown-i")): Object: 'Object Repository/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-userdropdown-i' is clicked on
+
+01-07-2026T22:56:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-userdropdown-i' is clicked on
+
+01-07-2026T22:56:53 - [TEST_STEP][PASSED] - click(findTestObject("Page_OrangeHRM/a_Logout")): Object: 'Object Repository/Page_OrangeHRM/a_Logout' is clicked on
+
+01-07-2026T22:56:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/a_Logout' is clicked on
+
+01-07-2026T22:56:57 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+01-07-2026T22:56:58 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[01-07-2026T22:56:20 - [TEST_SUITE][PASSED] - KatalonGitJenkins: null]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

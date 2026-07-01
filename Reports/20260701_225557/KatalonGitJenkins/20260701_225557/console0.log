@@ -1,0 +1,30 @@
+2026-07-01 22:56:16.039 INFO  c.k.k.c.l.logback.LogbackConfigurator    - Logback default configuration initialized from: C:\Users\dipta\Downloads\Katalon_Studio_Engine_Windows_64-11.2.1\Katalon_Studio_Engine_Windows_64-11.2.1\configuration\org.eclipse.osgi\108\0\.cp\resources\logback\logback-execution.xml
+2026-07-01 22:56:16.071 INFO  c.k.k.c.l.logback.LogbackConfigurator    - Logback custom configuration initialized from: C:\Users\dipta\git\KatalonGitIntegrateTest\Include\config\log.properties
+2026-07-01 22:56:20.377 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/KatalonGitJenkins
+2026-07-01 22:56:20.787 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Diptarup Sinha
+2026-07-01 22:56:20.787 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = KatalonGitIntegrateTest
+2026-07-01 22:56:20.787 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = dipta - DESKTOP-OTJBDN6
+2026-07-01 22:56:20.787 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2026-07-01 22:56:20.787 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 192.168.250.170
+2026-07-01 22:56:20.804 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 11.2.1.0
+2026-07-01 22:56:21.523 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2026-07-01 22:56:21.523 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/Test Case by Kim
+2026-07-01 22:56:23.335 DEBUG testcase.Test Case by Kim                - 1: openBrowser(null)
+2026-07-01 22:56:24.974 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2026-07-01 22:56:25.301 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+2026-07-01 22:56:34.833 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = b5cbcf6f422151dbaeda2f2418848833
+2026-07-01 22:56:34.833 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 149.0.7827.156
+2026-07-01 22:56:34.850 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2026-07-01 22:56:34.850 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.39.0
+2026-07-01 22:56:34.884 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2026-07-01 22:56:35.052 DEBUG testcase.Test Case by Kim                - 2: navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")
+2026-07-01 22:56:42.614 DEBUG testcase.Test Case by Kim                - 3: setText(findTestObject("Page_OrangeHRM/input_Username"), "Admin")
+2026-07-01 22:56:46.028 DEBUG testcase.Test Case by Kim                - 4: setEncryptedText(findTestObject("Page_OrangeHRM/input_Password"), "hUKwJTbofgPU9eVlw/CnDQ==")
+2026-07-01 22:56:47.045 DEBUG testcase.Test Case by Kim                - 5: click(findTestObject("Page_OrangeHRM/button_Login"))
+2026-07-01 22:56:49.781 DEBUG testcase.Test Case by Kim                - 6: click(findTestObject("Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-userdropdown-i"))
+2026-07-01 22:56:53.769 DEBUG testcase.Test Case by Kim                - 7: click(findTestObject("Page_OrangeHRM/a_Logout"))
+2026-07-01 22:56:57.303 DEBUG testcase.Test Case by Kim                - 8: closeBrowser()
+2026-07-01 22:56:58.522 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/Test Case by Kim
+2026-07-01 22:56:58.723 INFO  c.k.katalon.core.main.TestSuiteExecutor  - --------------------
+2026-07-01 22:56:58.723 INFO  c.k.katalon.core.main.TestSuiteExecutor  - END Test Suites/KatalonGitJenkins
+2026-07-01 22:56:58.723 INFO  c.k.katalon.core.main.TestSuiteExecutor  - ====================
